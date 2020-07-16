@@ -1,3 +1,9 @@
+:root {
+  --amplify-primary-color: #006eff;
+  --amplify-primary-tint: #005ed9;
+  --amplify-primary-shade: #005ed9;
+}
+
 .App {
   text-align: center;
 }
